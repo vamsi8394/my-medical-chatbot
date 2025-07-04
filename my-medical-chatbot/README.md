@@ -1,4 +1,4 @@
-# 🧠 Jillani SoftTech Medical Chatbot
+# 🧠 Medical Chatbot
 
 A Streamlit chatbot for medical documents using Gemini Pro, LangChain, and FAISS.
 
