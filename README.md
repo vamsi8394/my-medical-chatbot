@@ -1,10 +1,7 @@
-# 🩺Medical Chatbot
+# 🧠 Jillani SoftTech Medical Chatbot
 
-A Streamlit chatbot using LangChain, Gemini Pro, and FAISS to answer medical questions from uploaded PDFs.
+A Streamlit-based chatbot for medical documents using Gemini Pro, LangChain, and FAISS.
 
-## 💻 Setup
-
-1. Clone the repo  
-2. Create `.env` file with your Google API key  
-3. Install dependencies  
-4. Run the Streamlit app  
+## Setup
+pip install -r requirements.txt
+streamlit run app.py
