@@ -26,7 +26,8 @@ A Streamlit-based medical assistant chatbot...
 3. Ask questions in "Chatbot"
 
 ## 🖼️ Screenshot
-![Chatbot UI](assets/chat-ui.png)
+![image](https://github.com/user-attachments/assets/eefd5652-060d-4d21-8d18-0065d2a1b7b7)
+
 
 ## 📜 License
 MIT License
