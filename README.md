@@ -36,5 +36,5 @@ MIT License
 PRs welcome!
 
 ## 🔗 Links
-- [LinkedIn][(https://pk.linkedin.com/in/jillanisofttech)](https://www.linkedin.com/in/vamshikrishnareddygudi/)
+- [LinkedIn][(https://www.linkedin.com/in/vamshikrishnareddygudi/)]
   
